@@ -49,13 +49,15 @@ We're actively building an **HR Management System** — an end-to-end platform c
 
 ### 📫 Connect with us
 
+
 <p align="left">
-  <a href="LINK_TO_HI_HELLO_CARD" target="_blank"><img src="https://hihello.com/p/e69cdc84-7331-4f2a-b045-354828593ad7" /></a>
-  <a href="LINK_TO_LINKEDIN" target="_blank"><img src="https://www.linkedin.com/in/m2solutions/&logo=linkedin&logoColor=white" /></a>
-  <a href="LINK_TO_FACEBOOK" target="_blank"><img src="https://www.facebook.com/people/M2/61593156766337/&logo=facebook&logoColor=white" /></a>
-  <a href="LINK_TO_INSTAGRAM" target="_blank"><img src="https://www.instagram.com/m2_software_solutions/&logo=instagram&logoColor=white" /></a>
+
+  <a href="https://www.linkedin.com/in/m2solutions/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/people/M2/61593156766337/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/m2_software_solutions/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <!-- <a href="LINK_TO_TWITTER_X" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a> -->
-  <a href="mailto:YOUR_EMAIL@domain.com"><img src="m2solutioncompany@gmail.com&logo=gmail&logoColor=white" /></a>
+  <a href="m2solutioncompany@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://hihello.com/p/e69cdc84-7331-4f2a-b045-354828593ad7" target="_blank"><img src="https://img.shields.io/badge/Business%20Card-Hi%20Hello-0A66C2?style=for-the-badge" /></a>
 </p>
 
 <p align="center"><i>Let's build something great together.</i></p>
